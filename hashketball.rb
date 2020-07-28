@@ -17,7 +17,7 @@ game_hash = {
             :assists => 12,
             :steals => 3,
             :blocks => 1,
-            :Slam_dunks => 1
+            :slam_dunks => 1
           },
           
           {
@@ -29,7 +29,7 @@ game_hash = {
             :assists => 12,
             :steals => 12,
             :blocks => 12,
-            :Slam_dunks => 7
+            :slam_dunks => 7
           },
           
           { 
@@ -41,7 +41,7 @@ game_hash = {
             :assists => 10,
             :steals => 3,
             :blocks => 1,
-            :Slam_dunks => 15},
+            :slam_dunks => 15},
             
             { 
             :player_name => "Mason Plumlee",
@@ -52,7 +52,7 @@ game_hash = {
             :assists => 6,
             :steals => 3,
             :blocks => 8,
-            :Slam_dunks => 5},
+            :slam_dunks => 5},
             {
             :player_name => "Jason Terry",
             :number => 31,
@@ -62,7 +62,7 @@ game_hash = {
             :assists => 2,
             :steals => 4,
             :blocks => 11,
-            :Slam_dunks => 1}]
+            :slam_dunks => 1}]
     },
     :away => {
         #this is the second dimension
@@ -79,7 +79,7 @@ game_hash = {
             :assists => 1,
             :steals => 2,
             :blocks => 7,
-            :Slam_dunks => 2
+            :slam_dunks => 2
           },
           
           {
@@ -91,7 +91,7 @@ game_hash = {
             :assists => 7,
             :steals => 22,
             :blocks => 15,
-            :Slam_dunks => 10
+            :slam_dunks => 10
           },
           
           {
@@ -103,7 +103,7 @@ game_hash = {
             :assists => 12,
             :steals => 4,
             :blocks => 5,
-            :Slam_dunks => 5
+            :slam_dunks => 5
           },
           
           {
@@ -115,7 +115,7 @@ game_hash = {
             :assists => 2,
             :steals => 1,
             :blocks => 1,
-            :Slam_dunks => 0
+            :slam_dunks => 0
           },
           
           {
@@ -127,7 +127,7 @@ game_hash = {
             :assists => 12,
             :steals => 7,
             :blocks => 5,
-            :Slam_dunks => 12
+            :slam_dunks => 12
           }
         ]
     }
