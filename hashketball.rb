@@ -1,4 +1,5 @@
 # Write your code here!
+def game_hash 
 game_hash = {
     #this is the 1st dimension
     :home => {
